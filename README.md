@@ -61,5 +61,7 @@ Visualize the autocorrelation function and PSD.
 
 
 ## RESULT: 
+<img width="591" height="1280" alt="EX - 7 AC" src="https://github.com/user-attachments/assets/3ff4124a-c665-4b4e-89c9-2a629511e829" />
+
 Thus the auto correlation and PSO are executed in SCILAB output is verified
 
